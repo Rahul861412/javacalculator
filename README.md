@@ -10,12 +10,32 @@ A simple Java-based console calculator that performs basic arithmetic operations
  Java
  Java Console I/O (Scanner)
 
- * 📌 𝗛𝗼𝘄 𝘁𝗼 𝗥𝘂𝗻:
-   1. Compile: javac ConsoleCalculator.java
-   2. Run:     java ConsoleCalculator
-   
- * ✅ 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀:
-   - Java JDK 8 or higher
-   
- * ✨ 𝗔𝘂𝘁𝗵𝗼𝗿:
+ 💻 Setup in NetBeans
+1. *Open NetBeans*.
+2. *Create a New Project*:
+
+   - File → New Project → Java → Java Application
+   - Name it `JavaCalculator`
+   - Click Finish
+3. *Replace Main Class Code*:
+   - Go to `Source Packages` → your package (e.g., `javacalculator`)
+   - Open the default `.java` file
+   - Replace its contents with the provided `ConsoleCalculator.java` code.
+4. *Run the Project*:
+   - Right-click the project → Run
+
+
+🚀 Sample Output
+
+
+Select Operation:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+Enter your choice: 1
+Enter first number: 10
+Enter second number: 5
+Result: 15.0
    𝗥𝗮𝗵𝘂𝗹 – MCA Student from Tiptur
